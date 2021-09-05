@@ -29,11 +29,10 @@ Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnit
 
 ### 8.2 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una Frecuencia de 2.5 Khz
 
-
-
 ### 8.3 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
-   
+ ![Screenshot]()
+ ![Screenshot]()
    
 ### 8.4 Responda las siguientes preguntas:
 
@@ -51,18 +50,25 @@ Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnit
 
 ### 8.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje: ____________(V)
-Periodo: ____________(s)
+Amplitud de voltaje: 6 (V)
+Periodo: 12 (s)
 
 ### 8.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f: _____________(Hz)
-ω: ____________(rad/s)
+f: 0.16 (Hz)
+ω: 1.005 (rad/s)
 
 
 ### 8.7 Con el multímetro digital mida el voltaje de salida en RL:
 
-### 8.8 Compare el voltaje medido en el punto 8.5. y el obtenido en el punto 8.7. ¿Coinciden? _______ ¿Por qué?
+ ![Screenshot]()
+ 
+### 8.8 Compare el voltaje medido en el punto 8.5. y el obtenido en el punto 8.7. ¿Coinciden? 
+
+No coinciden, debido a que en el punto 8.5 tenemos la amplitud del voltaje de  6V o de la mitad de un tramo que seria 3 V, pero en el voltaje de salida de RL tenemos 0.175 V esto calculado con un multímetro.
+
+¿Por qué?
+Esto se debe a que la onda sinosoidal nunca es perfecta, solo se pueden considerar fiables las medidas tomadas con multímetros True RMS cuando se trabaja en instalaciones de corriente alterna.
 
 
 5. VIDEO
