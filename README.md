@@ -27,35 +27,42 @@ Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnit
  ![Screenshot]()
 
 
-### 7.2 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una Frecuencia de 2.5 Khz
+### 8.2 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una Frecuencia de 2.5 Khz
 
 
 
-### a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+### 8.3 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
    
-### b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+   
+### 8.4 Responda las siguientes preguntas:
 
-### c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
-
-### 7.3 Análisis de resultados
-
-### Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+### ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
 
-### 7.8 Preguntas
-
-### ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+### ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
 
-### ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+### ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
 
+### ¿En qué valor está posicionada la perilla TIME/DIV?
 
-### ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-### ¿Qué son los valores eficaces de voltaje y corriente?
+### 8.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
+Amplitud de voltaje: ____________(V)
+Periodo: ____________(s)
+
+### 8.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+
+f: _____________(Hz)
+ω: ____________(rad/s)
+
+
+### 8.7 Con el multímetro digital mida el voltaje de salida en RL:
+
+### 8.8 Compare el voltaje medido en el punto 8.5. y el obtenido en el punto 8.7. ¿Coinciden? _______ ¿Por qué?
 
 
 5. VIDEO
