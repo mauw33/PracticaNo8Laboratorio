@@ -73,7 +73,7 @@ Esto se debe a que la onda sinosoidal nunca es perfecta, solo se pueden consider
 
 5. VIDEO
 
-
+https://youtu.be/APrOnuvIfl0
 
 6. CONCLUSIONES
 
