@@ -24,15 +24,15 @@ Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnit
 
 ### 8.1 Implemente el circuito que se presenta en la figura 7.1
 
- ![Screenshot]()
+ ![Screenshot](Laboratorio8/1.png)
 
 
 ### 8.2 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una Frecuencia de 2.5 Khz
 
 ### 8.3 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
 
- ![Screenshot]()
- ![Screenshot]()
+ ![Screenshot](Laboratorio8/2.jpeg)
+ ![Screenshot](Laboratorio8/3.jpeg)
    
 ### 8.4 Responda las siguientes preguntas:
 
@@ -65,7 +65,7 @@ f: 0.16 (Hz)
 
 ### 8.7 Con el multímetro digital mida el voltaje de salida en RL:
 
- ![Screenshot]()
+ ![Screenshot](Laboratorio8/4.png)
  
 ### 8.8 Compare el voltaje medido en el punto 8.5. y el obtenido en el punto 8.7. ¿Coinciden? 
 
